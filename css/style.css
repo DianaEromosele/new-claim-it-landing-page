@@ -1065,6 +1065,13 @@ h1, h2, h3, h4, h5, h6 {
 .screenshots-section {
 	padding: 80px 0;
 }
+
+.screenshots-section .download-buttons {
+	margin-top: 40px;
+	display: flex;
+	justify-content: center;
+}
+
 .screenshot-images {
 	list-style: none;
 	padding: 0;
@@ -1259,6 +1266,13 @@ h1, h2, h3, h4, h5, h6 {
 	background-image: none;
 	background-color: #f0f0f0;
 }
+
+.instagram-section .download-buttons {
+	margin-top: 40px;
+	display: flex;
+	justify-content: center;
+}
+
 .instagram-form textarea {
 	resize: vertical;
 }
